@@ -40,7 +40,7 @@ This project follows an Open-Core / Dual-Licensing model:
 
 The proprietary defense & utility enterprise license provides hardware cryptoprocessor integration (PKCS#11), IEC 62351 compliance, and NERC-CIP tamper-proof auditing for strictly air-gapped grids.
 
-[**Purchase Enterprise License via Polar.sh ($300,000 - $800,000/year)**](https://polar.sh/)
+[**Purchase Enterprise License via Polar.sh **](https://buy.polar.sh/polar_cl_tVBa9DbkadhhMHNyoF5OMUSO4FajgdjIz043f4WFCzO)
 
 ### Author & Copyright Metadata
 - **Author:** Emirhan CAMCI
